@@ -4,6 +4,7 @@
 // Definição de pinos
 #define RED_PIN 13
 #define GREEN_PIN 11
+
 #define BLUE_PIN 12
 
 // Função para configurar PWM nos pinos dos LEDs
